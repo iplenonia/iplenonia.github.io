@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iplenonia.github.io/sitemap.html.gz
+Sitemap: https://iplenonia.github.io/app/sitemap.html.gz
+Sitemap: https://iplenonia.github.io/assets/sitemap.html.gz
+Sitemap: https://iplenonia.github.io/css/sitemap.html.gz
+Sitemap: https://iplenonia.github.io/includes/sitemap.html.gz
+Sitemap: https://iplenonia.github.io/item/sitemap.html.gz
+Sitemap: https://iplenonia.github.io/src/sitemap.html.gz
